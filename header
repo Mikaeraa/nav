@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <header>
      <div class="nav">
-        <img src="assets/back.svg">
+        <img class="back" src="assets/back.svg">
         <span class="logo"><a href="index.html"><h1>Mrs Martin</h1></a></span>
         <div class="left">
             <a href="night.html">The Night</a>
